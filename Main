@@ -36,15 +36,13 @@ return {
     animation_ids = {
         ["bodybuilder"] = "rbxassetid://3994130516",
         ["bouncy twirl"] = "rbxassetid://14353423348",
-        ["baby dance"] = "rbxassetid://4272484885",
         ["floss"] = "rbxassetid://5917570207",
         ["caramelldansen"] = "rbxassetid://97847706148165",
         ["hype"] = "rbxassetid://3696757129",
         ["kicking feet"] = "rbxassetid://112540347880956",
         ["take me under"] = "rbxassetid://6797938823",
-        ["yungblud happier jump"] = "rbxassetid://15610015346",
     },
-    animations_key = {"custom", "bodybuilder", "bouncy twirl", "baby dance", "floss", "caramelldansen", "hype", "kicking feet", "take me under", "yungblud happier jump"},
+    animations_key = {"custom", "bodybuilder", "bouncy twirl", "floss", "caramelldansen", "hype", "kicking feet", "take me under"},
     hit_effects = {
         ["orbs"] = {
             {
