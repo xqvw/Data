@@ -32,7 +32,7 @@ return {
         ["triangles"] = game:GetObjects("rbxassetid://103816036088614")[1],
         ["starlight"] = game:GetObjects("rbxassetid://103382181949401")[1]
     },
-    aura_key = {"angel", "starlight", "celestial", "hearts", "flow", "ribbon", "wind", "triangles"},
+    aura_key = {"angel", "heavenly", "starlight", "celestial", "hearts", "flow", "ribbon", "wind", "triangles"},
     animation_ids = {
         ["bodybuilder"] = "rbxassetid://3994130516",
         ["bouncy twirl"] = "rbxassetid://14353423348",
