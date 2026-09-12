@@ -128,7 +128,7 @@ return {
             }
         },
     },
-    hit_effects_key = {"clone", "bubble", "sparkles", "orbs", "vortex"},
+    hit_effects_key = {"bubble", "sparkles", "orbs", "vortex"},
     bullet_tracers = {
         ["laser"] = {FaceCamera = true, TextureLength = 2, Texture = "rbxassetid://12781800668"},
         ["line"] = {FaceCamera = true, Texture = "http://www.roblox.com/asset/?id=5059545109"},
