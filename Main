@@ -41,8 +41,10 @@ return {
         ["hype"] = "rbxassetid://3696757129",
         ["kicking feet"] = "rbxassetid://112540347880956",
         ["take me under"] = "rbxassetid://6797938823",
+        ["invisible"] = "rbxassetid://94292601332790",
+        ["fly"] = "rbxassetid://93511411593120"
     },
-    animations_key = {"custom", "bodybuilder", "bouncy twirl", "floss", "caramelldansen", "hype", "kicking feet", "take me under"},
+    animations_key = {"fly", "invisible", "custom", "bodybuilder", "bouncy twirl", "floss", "caramelldansen", "hype", "kicking feet", "take me under"},
     hit_effects = {
         ["orbs"] = {
             {
